@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tema1.actividad13.Actividad13Test
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.067 s -- in tema1.actividad13.Actividad13Test
