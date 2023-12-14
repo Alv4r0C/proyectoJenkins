@@ -15,7 +15,7 @@ pipeline {
 				}
 			}
 			
-			stage (‘Pasamos a producción’) {
+			stage ('Pasamos a producción') {
 				steps {
 					echo "Movemos al servidor y lo ponemos en producción"
 				}
